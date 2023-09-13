@@ -2,13 +2,15 @@
 4760 - Project 1
 
 ## To Run Project
+
 1. Go into project directory
 2. Type in 'make'
 3. ./reverse [-h] [-i inputFileName] [-o outputFileName]
 
 The goal of this project is to become familiar with the environment in opsys while practicing system calls. You will also demonstrate your proficiency in the use of perror and getopt in this submission. Additionally, you should understand the different steps of compilation and linking. This project is just reading some integers from an input file and writing them out in reverse order into the output file. All that is required of you is to use fork(), parsing the options, and using perror().
 
-###Task
+### Task
+
 Your project should consist of one program, which will fork versions of itself to do some file processing. It will start by using
 some command line arguments. You must implement at least the following command line arguments using getopt:
 
