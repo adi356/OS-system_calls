@@ -1,5 +1,4 @@
-# system_calls-library_functions
-4760 - Project 1
+# OS-system_calls-library_functions
 
 ## To Run Project
 
